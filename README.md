@@ -1,2 +1,2 @@
 # convertPic
-a python progrect to convert picture
+a python progrect to convert picture.
